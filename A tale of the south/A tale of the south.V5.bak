@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[A tale of the south]]></Title>
+		<AuthorName><![CDATA[Luc]]></AuthorName>
+		<Bio><![CDATA[]]></Bio>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<LastFullBackup>2019-12-01</LastFullBackup>
+		<WordTarget>0</WordTarget>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<WordCountStart>0</WordCountStart>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDivider></LatexSceneDivider>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>1</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+		<Fields>
+		</Fields>
+
+	</PROJECT>
+
+	<LOCATIONS>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Tiati]]></Title>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[Rege;e Tiati]]></AKA>
+		<FullName><![CDATA[Tiati Tarbus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Ivan]]></Title>
+		<SortOrder>2</SortOrder>
+		<FullName><![CDATA[Ivan Tarbus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Tarja]]></Title>
+		<SortOrder>3</SortOrder>
+		<FullName><![CDATA[Tarja Tarbus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Turnirul]]></Title>
+		<BelongsToChID>1</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>411</WordCount>
+		<LetterCount>2567</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Capitolul 1]]></Title>
+		<Desc><![CDATA[Are loc turnirul anual din Aksikrata. Familia regala asista la turneu alaturi de majoritatea nobililor din regat. Ivan, printul Aksikratei, isi infrange adversarii cu usurinta uimind pe toti cei care privesc. Dupa sfarsitul turnirului are loc un banchet mare la castel precum si un consiliu intre rege si nobili.]]></Desc>
+		<SortOrder>1</SortOrder>
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>1</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2019-09-24</Date>
+		<Count>1</Count>
+		<TotalCount>1</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-11-03</Date>
+		<Count>405</Count>
+		<TotalCount>405</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-11-04</Date>
+		<Count>405</Count>
+		<TotalCount>405</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-12-01</Date>
+		<Count>405</Count>
+		<TotalCount>405</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-12-02</Date>
+		<Count>405</Count>
+		<TotalCount>405</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2021-09-20</Date>
+		<Count>405</Count>
+		<TotalCount>405</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2021-09-21</Date>
+		<Count>405</Count>
+		<TotalCount>405</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-04-16</Date>
+		<Count>408</Count>
+		<TotalCount>408</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-23</Date>
+		<Count>411</Count>
+		<TotalCount>411</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-24</Date>
+		<Count>411</Count>
+		<TotalCount>411</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER5>

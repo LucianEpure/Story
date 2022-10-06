@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<YWRITER7>
+	<PROJECT>
+		<Ver>7</Ver>
+		<Title><![CDATA[A Tale of Arcansyl]]></Title>
+		<AuthorName><![CDATA[Lucian Epure]]></AuthorName>
+		<Bio><![CDATA[]]></Bio>
+		<Desc><![CDATA[A sample project you can modify. Or you can delete all the chapters, characters, etc, and start fresh.]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<LastFullBackup>0001-01-01</LastFullBackup>
+		<WordTarget>0</WordTarget>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<WordCountStart>0</WordCountStart>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDivider></LatexSceneDivider>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>5</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+		<Fields>
+			<Field_StartNovelChID>5</Field_StartNovelChID>
+		</Fields>
+
+	</PROJECT>
+
+	<LOCATIONS>
+	<LOCATION>
+		<ID>1</ID>
+		<Title><![CDATA[Talogne Castle]]></Title>
+		<Desc><![CDATA[The castle of the Maroni where they retreated during the second war and invasion of the empire. The castle is situated on the South of the Fang peninsula and is the last unconquered settlement of the knightly order. In the older times the castle was a bastion guarding the sea routes and the gulf of Galend. It is rather small but well fortified withstanding the siege for many weeks in spite of the blocked sea routes that cuts it from its allies help.]]></Desc>
+		<Tags><![CDATA[Talogne]]></Tags>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[Last bastion of the Maroni]]></AKA>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>2</ID>
+		<Title><![CDATA[Suil Nahel]]></Title>
+		<Desc><![CDATA[Small Fort, on the north-western shore of Arcansyl. It sits close to the tip of the peninsula north of Calmh bay and was used by the galends as an observation point.  From the high tower of Suil Nahel, one can see all the bay as well as the Rocky Isles and on a clear day even the contour of the Maroni peninsula, which is fa west.]]></Desc>
+		<SortOrder>2</SortOrder>
+		<AKA><![CDATA[eye of the Cliff]]></AKA>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>3</ID>
+		<Title><![CDATA[Calmoh Bay]]></Title>
+		<Desc><![CDATA[Bay in the west of Arcansyl. Calmoh city, capitol of Galend is built on the mouth of ... which flows in the bay ]]></Desc>
+		<SortOrder>3</SortOrder>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>4</ID>
+		<Title><![CDATA[Hope's Gate]]></Title>
+		<Desc><![CDATA[The largest mountain crossing between the imperial lands and Arcansyl. Place of battle between the refugees of Duras and the imperial army sent to follow them.]]></Desc>
+		<SortOrder>4</SortOrder>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>5</ID>
+		<Title><![CDATA[Glahger]]></Title>
+		<SortOrder>5</SortOrder>
+		<AKA><![CDATA[Capitol of Tarbus]]></AKA>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>6</ID>
+		<Title><![CDATA[Ehglass]]></Title>
+		<Desc><![CDATA[Teritory east of Galend and west of the Corvis lands, in the middle of Arcansyl with fertile lands, green hills and guarded by high mountains in the north and north east.]]></Desc>
+		<SortOrder>6</SortOrder>
+		<AKA><![CDATA[The green lands]]></AKA>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>7</ID>
+		<Title><![CDATA[Oxen Hall]]></Title>
+		<Desc><![CDATA[A fort in the most north-western region of Arcansyl overlooking the coast and mountain crosses from Forgedale.]]></Desc>
+		<SortOrder>7</SortOrder>
+		<AKA><![CDATA[The sea watch]]></AKA>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>8</ID>
+		<Title><![CDATA[Dagia]]></Title>
+		<Desc><![CDATA[Region south where rivers Dhana and Ahna meet and following the valley of Dhana until she reaches the sea. These lands were taken from Corvis after the great civil war of Arcansyl by the Tarbuses.]]></Desc>
+		<SortOrder>8</SortOrder>
+	</LOCATION>
+
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Tara]]></Title>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[Princess of Arkansyl]]></AKA>
+		<Bio><![CDATA[-Born in Glahger
+- Daughter of Tiati and sister of Ivan, Tara is the princess of Tarbus. She is the second chid of Tiati and is often kept in the shadow of her brother, the to-be heir to the throne. 
+- Tara spends her childhood around Glahger. With her mother ill and her father forever engaged with royal duties, little Tara discovers the wonders of world accompanied only by her guards and caretaker, most of the time wandering around the forests surrounding Glahger and along the streets of the city. 
+- As she grows up she comes to be closer to her mother and more and more impressed by her father. She spends lots of time caring for her the ill queen who's getting worse with each passing day.]]></Bio>
+		<Goals><![CDATA[She must defeat Anthea and take back the throne
+
+She has to learn to give up her extreme nationalist views and stop fighting for the glory of a newly born kingdom instead learn to rule over the different kins of Arcansyl. 
+
+She first will press her claim against Anthea at the battle of ... where leading an army consisting mostly of men of Capoll, mercenaries from the Free cities and very few nobles loyal to Tiati she is defeated.
+
+Tara must learn to appeal to the people of Arcansyl similar to Anthea, however not build on mistrust and lies but with kindness and justice.
+
+She will strive to learn the ways of Duras in order to use the stone and change tip the scale of war in her favor.]]></Goals>
+		<FullName><![CDATA[Tara Tarbus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Colm]]></Title>
+		<SortOrder>2</SortOrder>
+		<Bio><![CDATA[Born in Eghlass in 1463, is the first child of Tiati and Keeva
+Since the death of Cahir, Tiati becomes extremly preocupied with the ruling of the alliance and dedicates his life to that as well as preparing Colm to take over when the time comes
+
+He grows up at the court being "trained" by his father in the royal duties. He doesn't seem to fit, with the noble kids, doesn't care about hunting, dances and other noble extravagances. 
+
+He listens to his father and is allowed to ocasionally stroll through the town with his guards.
+
+Becomes friend with a young labourer's kid called Mich
+
+]]></Bio>
+		<FullName><![CDATA[Colm Tarbus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Balfur]]></Title>
+		<SortOrder>3</SortOrder>
+		<FullName><![CDATA[Balfur ]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Hegio]]></Title>
+		<Desc><![CDATA[He is tall and lean. No beard covers his sharp face, the piercieng black eyes rest under thick eyebrows that make him look rugged and always frowning. Only his large, grinning smile can change his figure and suggest a more calculated and cunning personage. A big dark tattoo in the shape of the sun sits half on top and half on the left edge of his bald head. It is said that it marks the monks of "Sons of Solis" but few of them have ever been seen in Arcansyl. Hegio is an exceptional case, for he is not just a monk, he is the second in command for the order and the only delegate to the imperial court. Thus wherever the emperor goes he not only can but undoubtly will be.
+For Aphanys he is one of the most trusted lieutenants as well as the fiercest and fine-skilled warrior. A formidable fighter and fanatic monk, Hegio stands undefeated in single combat. His love for slaugthering his enemies is overcame only for his devotion to the high God Sol and the emperor.]]></Desc>
+		<Tags><![CDATA[Hegio]]></Tags>
+		<SortOrder>4</SortOrder>
+		<AKA><![CDATA[Sword of Aphanys]]></AKA>
+		<Bio><![CDATA[
+- born in Forgedale
+
+- claims he saw a vision of Sol when he was a child. during one of the dark plagues in which he is called as a missionary and promised an eternal place in his halls if he serves him.
+
+- joins the Crown Chevaliers who were the most influential order in Forgedale, they are also very loyal to the emperor thus Hegio grows to worship the emperor the same way as worshiping Sol.
+
+- his stature and fighting abilities catch the attention of the monks and he is sent to follow the path of a true Crown Chevalier.
+
+- in the first war with the Maroni order he is noticed by the emperor for his bravery and dedication which gets closer and closer to fanaticism. The old emperor takes him under his patronage which turn the maturing Hegio into an even more loyal and devoted subject.
+
+- when Aphanys comes to be emperor he names Hegio as a delegate but not for the Chevaliers. Hegio is forced to convert to the Sons of Solis. Aphanys calls this a test of loyalty in appearance but in essence he wishes to secure control over the less loyal orders. The young warrior gets fooled easily and strives to prove himself for the new emperor.]]></Bio>
+		<FullName><![CDATA[Hegio of Solis]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>5</ID>
+		<Title><![CDATA[Aphanys]]></Title>
+		<Tags><![CDATA[Aphanys]]></Tags>
+		<SortOrder>5</SortOrder>
+		<AKA><![CDATA[Emperor of Forgedale]]></AKA>
+		<Bio><![CDATA[Born and raised at the imperial court in Forgedale
+
+A delightful young noble, well mannerd, smart and charismatic, a perfect apparation at the court, a promising future emperor.
+
+Meets Liana, a noble demoiselle ]]></Bio>
+		<Goals><![CDATA[Liana's story]]></Goals>
+		<FullName><![CDATA[Aphanys Trenio Delon]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>6</ID>
+		<Title><![CDATA[Tiati]]></Title>
+		<Tags><![CDATA[Tiati]]></Tags>
+		<SortOrder>6</SortOrder>
+		<AKA><![CDATA[King of the Glachs and ruler of clan Tarbus]]></AKA>
+		<FullName><![CDATA[Tiati Tarbus]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>7</ID>
+		<Title><![CDATA[Anthea]]></Title>
+		<Desc><![CDATA["She was noblesse itself, with a light pace yet towering presence. Attired in black and gold , the colors of her adoptive house. She gracefuly flowed in her simple yet elegant gown, despite the tight almost vulgar corset, catching everyone's attention.  Long, matte hair was running down her shoulders and so dark for when she strode seemed as night itself followed close. Her gaze on the other hand would not fit in the same tableau, for her coal-black eyes just like a crow's peak would pierce anyone audacious enough to stare them. And staring was the only way to look at her, for such striking was the beauty and so misterious was the aura of Anthea Corvis"
+
+
+]]></Desc>
+		<SortOrder>7</SortOrder>
+		<Bio><![CDATA[- Born in Glahger 
+- She is the sister of Tiati and princess of Tarbus. Without her consent she was promised by her dad to marry into the Corvis family as a token of peace and reconciliation between the two clans. Old Cahir dies before the plan follows and Tiati hurries to finish the preparations for the marriage of his sister. Anthea feels proud to do her duty for the clan and does not resent her father for his decision, at first.
+- She gets married to Lexus Corvis when she is 13 and moves to castle ... far from her family.
+- The Corvis family and their loyal barons filled by aversion for the young girl are going to make her life miserable. Her husband, whose father was killed by the Tarbuses after the last war of Arcansyl, will never learn to love her and protect her. 
+- The constant torture, both mental and sometimes physical, turn Anthea into a hateful, bitter princess whose hopes of a happy family and mariage fade and are replaced by plans of revenge.
+- Her only friend in the new home is the old librarian of the castle. She can often be found in the vast library... or in the little librarian's tower. He is the only courtier kind and gentle with her and a real father figure for the abandoned girl. The librarian shows Anthea the beauty of literature, he ... ]]></Bio>
+		<Goals><![CDATA[Hates Lexus and wants to overthrow him as well as punish all the barons who wronged her.
+
+After finding out Tiati was the one who "sold" her to the Corvises she decides to take action, get rid of Tiati and his family and take the crown of the Tarbuses and the throne of Arcansyl for herself.
+
+She comes over tomes of old in which she finds stories about the stone of Arcansyl (the one used by Duras the prophet when fighting the imperials at Hope's Gate) and learns about the travels of Aphanys.
+
+Strike a deal with the emperor giving him the stone of Eghlass in exchange for his help agains Tiati.
+
+To get rid of Tara and Colm. ]]></Goals>
+		<FullName><![CDATA[Anthea Corvis ]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>11</ID>
+		<Title><![CDATA[Gariath]]></Title>
+		<SortOrder>8</SortOrder>
+		<FullName><![CDATA[Gariath]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>8</ID>
+		<Title><![CDATA[Bard]]></Title>
+		<SortOrder>9</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>9</ID>
+		<Title><![CDATA[Guin]]></Title>
+		<Desc><![CDATA[Watchman in the fort Suil Nahel]]></Desc>
+		<SortOrder>10</SortOrder>
+		<AKA><![CDATA[Galend Watchman]]></AKA>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>10</ID>
+		<Title><![CDATA[Stout]]></Title>
+		<SortOrder>11</SortOrder>
+		<AKA><![CDATA[King of Galend]]></AKA>
+		<FullName><![CDATA[Keelan Stout]]></FullName>
+	</CHARACTER>
+
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Fall of Talogne]]></Title>
+		<Unused>-1</Unused>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>6</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[
+]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[Fall of the castle]]></Title>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>5</BelongsToChID>
+		<Goal><![CDATA[Aphanys destroys Talogne castle and takes the stone of the Maroni]]></Goal>
+		<Conflict><![CDATA[Hegio fights the guardian of the stone]]></Conflict>
+		<Outcome><![CDATA[Hegio kills the guardian and brings the stone to Aphanys]]></Outcome>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>982</WordCount>
+		<LetterCount>5469</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+			<CharID>5</CharID>
+		</Characters>
+		<Locations>
+			<LocID>1</LocID>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[One last hit and the front gate crumbled in shambles. The roof of the barbican stood no chance against the heavy boulder flying from the trebuchet. The weight of the stone and the shock of the impact prevailed against the iron and in just a few seconds the entire gatehouse fell turning into a pile of dust and rubble. It has never been seen such damage to be made by a war machine. The force of the hit seemed just like a giant's fist descending from the sky and going through the building as though it was made of soft cheese. The shock shattered not only the stone but the moral of the defenders as well, with only the older knights keeping their composure intact and their positions firm.
+The ditch of the citadel have been already filled by the imperials the nights before and now the path for the final assault laid open in front of them. The trebuchet stopped its barrage and all was silent. Tension, suspense, some kind of expectancy could be felt coming from the camp, men grabbing their weapons and waiting. It all seemed strange, for any ordinary army would have launched themselves upon their frightened, demoralised enemies by now, but this was no ordinary army; for in the camp many banners could be seen, and even if all the nobles from the empire were there that would not have matter, for only one banner was needed to keep order, and that banner was there, and it rose higher than the rest and more beautiful and noble than any. The banner of Forgedale, royal capitol of the empire and seat of the emperor himself. The banner of emperor Trenio Delon Aphanys.
+
+On the Talogne hill, next to the camp he sat tall in his saddle watching the gate falling. He sighed with regret, looking down for a few seconds. "Such a beauty, shame ..." He murmured, raising his forehead and glancing again over the soon to become battlefield, the small azure eyes moving slowly and steadily from the castle to the camp and back again. Then, turning to the man on his left, a richly dressed soldier holding a large bone curved horn, he briefly nodded. The soldier lifted the horn to his lips with both hands, for it was both long and bulky, took a deep breath and mightly blew upon it. Once, twice and at last thrice, the low echoes of the battle caller rolled down from the hill along the fresh breeze of the sea and into the camp. The sound have been long awaited by the restless soldiers and despite coming heavy and gloomy it was answered all in a single cheerful battle cry.
+From the hill they observed the camp now bustling, commanders screaming, ladders getting aligned and soldiers forming ranks and just like an ant colony the mass of men was put in motion. At first they marched steadily and rithmicaly but as they came into range their pace switched. Everyone knew his place, the assault have been planned for months and up to now the execution was perfect. The breached gate was on the southern side of the fortress and it was there the imperials focused their core units. The main group of men, armed with heavy bills and warhammers was personaly led by one of the best generals of the empire, the High Priest of the Crown Chevaliers. Contrary to his title the high priest ressembled more a berserker warrior, than a gentle, soothing holy man. Massive in stature, carrying a pole axe and covered in shining plate from head to toe he stood in the first line screaming orders readying his troops for the charge. Renowed for his fierceness in battle and carying a dozen holy symbols, he seemed invincible to the men around. The fact that he was born in Fangon, the mysterious land of giants, as the imperials call it, was only boosting his greatness making him not only a beacon of hope for the men around but also a truly frightening sight for the castle defenders.
+None of his soldiers was however as ironclad as him. Most of them were lightly dressed in cloth or gamberson with the richer lot lucky enough to wear an iron helmet and gauntlets. Their strength was their deadly weapons and swiftness
+
+
+stood in their speed and deadly weapons.  in their  yet what they lacked in steel they would compensate in zeal. This siege was not just a skirmish between squabling empire nobles, 
+
+
+The defenders, more and more anxious since the gap in the wall were now at the ready and eager, for it was finally their turn. A heavy rain of steel and stone was set upon the besiegers from the ramparts. They were not just soldiers protecting the castle, for every able bodied person, man or woman was given a crossbow or sling and was now letting loose their deadly projectiles
+
+Aphanys sat high on his snow white mare looking down and inspecting his camp. He wore a richly decorated plate armor, covered by his imperial surcoat, As tempting as it seems attacking a fortress through a broken wall must not be done hastly and without strategy, for many times the gap turns into a bottleneck and the greedy besiegers are caught in place by the defenders trying to climb the rubbled remains and showered with arrows from the walls. 
+
+
+attack While armed with heavy bills and led by none other than the High Priest of the Crown Chevaliers, the imperials attacked with great vigour slashing their way . At the same time the imperial knights, dressed in heavy plate armor latched the ladders onto the walls and while deflecting the raining arrows were climbing fast, ready to meet the archers with steel.
+ Thick smoke was raising from the keep. The two front towers lay in ruin. 
+
+
+
+
+
+
+
+
+]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<BelongsToChID>2</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>4</ID>
+		<Title><![CDATA[Scene 1]]></Title>
+		<Unused>-1</Unused>
+		<Fields>
+			<Field_SceneType>1</Field_SceneType>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>7</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>4</WordCount>
+		<LetterCount>19</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Times New Roman CE;
+
+]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>5</ID>
+		<Title><![CDATA[Ships are spotted from Suil Nahel]]></Title>
+		<Notes><![CDATA[
+Suil Nahel is a watchpost on the west of Galend. It is a very high tower on a rock, with no wall around and is used to watch over Calmoh Bay and all the surrounding area.
+
+Guin is an old guardsman in the tower. Today he must keep watch. He is cold and tired.
+
+The night before there was an unusual storm. that kept him awake
+
+He tries to energise, (drink coffee), while drinking remembers about his home (Galend village inisghts)
+
+He gets out of the turrete and on top of the pike. He first glances over the golf, despite the wind the sea is calm and the golf is strangely quiet for that hour
+
+He then looks to the stony islands and from the high tower he sees a thicker darker mist covering them, they are barely visible.
+
+Then he looks far west towards the Maroni peninsula, where he remembers the thin grey smoke raising, days ago wondering what has happened
+
+He notice the same darkish fog through there but this time is moving. For Guin is super bizar and as he keeps watching he notices the tip of the mast of a ship
+
+He recognizes the flags of Forgedale and gets frightened, rings the bell. No one answers the call so Guin huriedly descends from the pike and jumps on his horse
+
+He gallops along the bay and stops at the gate of the river urging the guards to seal the gate and close the river for low forgedale ships are coming from the Maroni peninsula across the channel.]]></Notes>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>3</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>965</WordCount>
+		<LetterCount>5313</LetterCount>
+		<Characters>
+			<CharID>9</CharID>
+		</Characters>
+		<Locations>
+			<LocID>2</LocID>
+			<LocID>3</LocID>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[All was quiet. Le brouillard venant de la mer se dansifiait peu a peu, edredon recouvrant amicalement la cote encore endormie, comme pour la rechauffer, la rassurer apres cette nuit tumultueuse. Lentement, il enlacait les arbres avant de les engloutirs dans son epais coton. Une fois avaler par celui ci, l illusion de tendresse s effacait ne laissant place qu au neant. Un neant glacial, silencieux, terrifiant. L on se retrouvait alors comme petrifier, aveugle et seul. Incapable de se rechauffer, le monstre semblait s infiltrer jusqu au plus profond de chauque etre, omnipresent il en faisait oublier jusqu a  sa propre existance. Semblant echapper a cette tourmente glaciale, la tour de Suil Nahel, improbable epron rocheux se dressait, au dessus de tout, hors d atteinte de ce brouillard vorace.
+Suil Nahel, known in the old language as the eye of the cliff, stands to this day on the tall western shores of Galend. It was built not so long ago on the highest rock guarding the north of Calmoh bay. The sole purpose of this fortress was to defend the entrance in the gulf, more specificaly, to warn the capitol in case of unwelcomed guests. Considering that Suil had no walls, only a thin, long tower, higher than any tree in whole Galend, it housed just a handful of men and horses ready and watchfull at all times. They called the tower, the pike, for it reminded them of the huge, slim pikes of the imperials, that the galends despised so much. The similarity was thus even more accurate, for the little garrison dreaded the tower as much due to the harsh winds from the sea which sweep its tip ten times more ruthless.
+One of these men was Guin, and today was his turn on "the Pike". From the first hour of day, before the sunlight would edge over the misty green fields in the east, he would have to replace his fellow watchman and spend the day glancing over the gloomy, grey sea.
+He was tired, a fierce storm led to a sleepless night for the old guard. The winds came from sea striking the rocky slopes of the shore while thunders echoed through the night. Is is though no surprise, for storms are common this season, even so, that many Galends jokingly say: "in the spring we never know wether it is day or night, for the skies are forever alight".
+But this storm felt different. Aggresive, more aggresive than usual. Every lightning seemed as a white claw ripping the sky in half and leting lose cold, piercing torrents. Even the noise accompanying it sounded closer to raging beasts fighting for territory than the storm's roars the galends got so used to. Those were the thoughts crossing Guin's mind last night, while struggling to ignore the savage concert and catch some sleep, praying to survive through the coming day in the Pike. A gust of chilly wind brought him back to reality.
+" Little bastard, I am sure he forgot to keep the fire burning... I'll be all frozen till this goddamn tower gets warm again."
+Guin threw another log in the fire, blew softly in his small stove watching as the flame was slowly coming back to life. He sat on the little stool and crouched beside the metal heater, still shivering. His wrinkled palms, engulfed now by the heat, stopped their trembling and began to rub his shoulders setting the blood in motion. He has seen many winters and was now old, his body was starting to betray him, the cold, humid air of the West was not kind anymore. Yet that was no excuse to leave the stormy wet lands of Galend and turn away from his duty, for even though he was sixty, Guin was still a guardsman in the service of none other than Lord and high Prince Keelan Stout. A guardsman is a bit exaggerated to call him, for those days have been long gone and now he served only as a watchman in the small fort called Suil Nahel.
+He started to walk around the small room, at first slowly yet aggressively rubbing his shoulders, then faster and faster until he was almost running. " Come on, old man, move to stay alive. At least now I will wake up". He did three more laps along the circle shaped chamber, then decided to check the wooden window, maybe the sun was now high enough and ready to join him in the battle against the dreadful, cold air.
+It wasn't. Or maybe it was, he couldn't tell. The sky was grey and dark. Less dark then when he began to climb the long spiral staircase but dark enough to not make him wish to go outside the little turret. Sitting back on the little stool he remembered a last secret trick against the cold. 
+Hanging from the rugged belt, was a little leather barreled shaped pouch . He opened it and was instantly enveloped by the herby, salty smell of its content. He grabbed a modest fist of dark, brownish powder from within the pouch and seemingly scared that the power of the misterious dust would fade away in the open air, closed the bag quickly yet as carefully as possible. 
+So familiar, so calming was the scent of the powder that in an instant Guin felt himself swayed away from the Pike and carried gently through the air in his childhood lands, up from Suil, in the furthest north of Galend. He was back home in his village, in a little shack, crouched next to a burning hearth where he watched  for the first time his mother, preparing .  So vivid was his memory  The warmth and sporadic crackle coming from within the flames
+
+
+
+
+
+]]></SceneContent>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[A family torn]]></Title>
+		<Desc><![CDATA[In Arcansyl the everstrong clan Tarbus is finally ruling during a time of peace. A brief history and the layout of all Arcansyl is shown. The focus stays on the Tarbuses and the constant struggle between Tiati and Ivan. Minor clashes take place between the father and the rebelious teenager and even though they are numerous no consequence follows. All changes when Ivan commits an involuntary murder in a flash of anger and his best friend is accused and punished for it. The overwhelming guilt forces the young prince to renounce his name and title and abandon the kingdom in spite of his father firm oposition. The book ends with Ivan leaving the capital not as a noble anymore but a commoner and with a shaken family and an unprepared heir to the throne, his sister Tara.]]></Desc>
+		<SortOrder>1</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[To seize an oportunity]]></Title>
+		<Desc><![CDATA[The Corvis clan, defetead in the last war of unification by the Tarbus became a shadow of its former glory and a vasal to the new rulers. In order to mark the peace and unity of the two old enemies Anthea Tarbus was married to Lexus Corvis when the peace was signed, and became the lady of the Crows. This book looks into the behaviour of the Corvis family towards the young girl and how their resentement and aversion model her into becoming one of the main antagonists of the story. In secondary plane, the book follows Ivan during his journey through the land and how he gets recruited by the mysterious forest rangers.
+The book ends with Anthea starting her plan to dethrone Tiati, murder the remaining Tarbuses and taking the crown as the next legitimate heir.]]></Desc>
+		<SortOrder>2</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>3</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>3</ID>
+		<Title><![CDATA[So it begins]]></Title>
+		<Desc><![CDATA[The queen dies due to her longtime illness. The mourning king is becoming bitter and angry, less calculated and more susceptible to making mistakes. Anthea, seing the descent of her brother decides it is the moment to strike. She forges a secret alliance with emperor Aphanys from the north and sets her trap for Tiati. The king gets attacked and ambushed in the battle of the steep coast by the imperial forces, all in exchange for the violet stone of the black sun held in Glahger (capital of the Tarbus). Anthea tries to capture Tara and find and kill Ivan, with no success though. Tara escapes Glahger with Balfor and Ivan who is protected by the rangers catches a glimpse of Anthea's plan and decides it is reconciliation time. He tries to arrive in Galend in time to warn his father about the ambush.
+The book ends with Anthea being crowned, Tara running from the city and Ivan arriving on the desolated battle fields too late...]]></Desc>
+		<SortOrder>3</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>5</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>4</ID>
+		<Title><![CDATA[On the road]]></Title>
+		<Desc><![CDATA[Tara and Balfur are going south in the kingdom of Capoll to seek refuge at the court of Calum. On the road they meet Niv and Gariath who join them. The night before their encounter Niv stole the violet stone from the imperial men that got it after the secret exchange with Anthea. Unaware of its power Niv and Gariath try to sell it to one of their smuggling connections. Ivan arrives too late to warn his father and without any hope left he decides to head back to the forest rangers. On the way he hears news that the Tarbus princess is lost and after encountering a patrol sent by Anthea he learns about the escape of his sister. He decides he can still save his sister and following his gut heads south to the city of Isonset where he fights and defeats the smugler's men who captured the gang in order to get the stone.]]></Desc>
+		<SortOrder>4</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>5</ID>
+		<Title><![CDATA[In nomine patris]]></Title>
+		<Desc><![CDATA[The fall of Talogne and the last stand of the Maroni knights. Imperial forces break the castle temple gates after the long siege and meet the guardian. Many fall but when Hegio the monk steps in he swiftly kills the guardian and takes the cellar key. He gives the key to Aphanys who descends in the great chamber and finds the sealed box containing the sacred gem of the white sun.]]></Desc>
+		<SortOrder>5</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<SectionStart>-1</SectionStart>
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>2</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>6</ID>
+		<Title><![CDATA[Trash]]></Title>
+		<Desc><![CDATA[This chapter was created automatically to hold deleted scenes.]]></Desc>
+		<Unused>-1</Unused>
+		<SortOrder>6</SortOrder>
+		<Fields>
+			<Field_IsTrash>1</Field_IsTrash>
+		</Fields>
+
+		<Type>1</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>1</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>7</ID>
+		<Title><![CDATA[Dialouge of Leah and Solis]]></Title>
+		<Unused>-1</Unused>
+		<SortOrder>7</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>1</Type>
+		<ChapterType>1</ChapterType>
+		<Scenes>
+			<ScID>4</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>8</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<SortOrder>8</SortOrder>
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2022-04-16</Date>
+		<Count>0</Count>
+		<TotalCount>0</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-04-17</Date>
+		<Count>4</Count>
+		<TotalCount>4</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-04-22</Date>
+		<Count>4</Count>
+		<TotalCount>8</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-04-23</Date>
+		<Count>202</Count>
+		<TotalCount>206</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-02</Date>
+		<Count>469</Count>
+		<TotalCount>473</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-03</Date>
+		<Count>503</Count>
+		<TotalCount>507</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-04</Date>
+		<Count>724</Count>
+		<TotalCount>728</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-13</Date>
+		<Count>872</Count>
+		<TotalCount>876</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-14</Date>
+		<Count>924</Count>
+		<TotalCount>928</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-15</Date>
+		<Count>929</Count>
+		<TotalCount>933</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-23</Date>
+		<Count>1237</Count>
+		<TotalCount>1241</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-24</Date>
+		<Count>1404</Count>
+		<TotalCount>1408</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-25</Date>
+		<Count>1441</Count>
+		<TotalCount>1445</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-29</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-06-30</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-01</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-02</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-04</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-05</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-06</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-07</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-08</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-14</Date>
+		<Count>1495</Count>
+		<TotalCount>1499</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-15</Date>
+		<Count>1644</Count>
+		<TotalCount>1648</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-16</Date>
+		<Count>1644</Count>
+		<TotalCount>1648</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-07-22</Date>
+		<Count>1644</Count>
+		<TotalCount>1648</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-08-08</Date>
+		<Count>1644</Count>
+		<TotalCount>1648</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-08-09</Date>
+		<Count>1644</Count>
+		<TotalCount>1648</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-08-10</Date>
+		<Count>1644</Count>
+		<TotalCount>1648</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-08-11</Date>
+		<Count>1644</Count>
+		<TotalCount>1648</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-08-12</Date>
+		<Count>1907</Count>
+		<TotalCount>1911</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-08-15</Date>
+		<Count>1947</Count>
+		<TotalCount>1951</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-08-31</Date>
+		<Count>1947</Count>
+		<TotalCount>1951</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-09-14</Date>
+		<Count>1947</Count>
+		<TotalCount>1951</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-09-15</Date>
+		<Count>1947</Count>
+		<TotalCount>1951</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-10-01</Date>
+		<Count>1947</Count>
+		<TotalCount>1951</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-10-02</Date>
+		<Count>1947</Count>
+		<TotalCount>1951</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-10-05</Date>
+		<Count>1947</Count>
+		<TotalCount>1951</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2022-10-06</Date>
+		<Count>1947</Count>
+		<TotalCount>1951</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER7>
